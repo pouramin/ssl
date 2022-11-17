@@ -4,7 +4,7 @@
 
 #No.1
 
-#Install certbot : نصب سرت
+#Install certbot : نصب سرتیفیکیت
 
 #sudo apt install certbot
 
